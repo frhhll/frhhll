@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi 👋, I'm Farhan Hilal
+little knowledge of programming
 <!--
 **frhhll/frhhll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
