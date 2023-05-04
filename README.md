@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Farhan Hilal</h1>
 <h3 align="center">little knowledge about programming</h3>
 
-- 🌱 I’m currently learning **course and bootcamp**
+- 🌱 I’m currently learning **Course and Bootcamp**
 
-- 💬 Ask me about **basic programming**
+- 💬 Ask me about **Basic Programming**
 
 - 📫 How to reach me **farhanhilal212@gmail.com**
 
